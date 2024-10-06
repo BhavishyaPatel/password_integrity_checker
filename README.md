@@ -3,7 +3,7 @@ It is just a experiment program, may not work 100% accurately.
 
 On Windows:
 1. Select the file *https://github.com/BhavishyaPatel/password_integrity_checker/blob/main/pwd_integrety_test.py* and open it
-2. Right corner of the code, select download option
+2. Right corner of the code, select *download* option
 3. Ones its downloaded run the python file
 
 On Kali Linux:
@@ -11,3 +11,9 @@ On Kali Linux:
 2. Enter the command *"git clone https://github.com/BhavishyaPatel/password_integrity_checker.git"*
 3. Change directory with the command *"cd password_integrity_checker"*
 4. Run the file with the command *"python pwd_integrety_test.py"*
+
+Other options:
+1. Select the file *https://github.com/BhavishyaPatel/password_integrity_checker/blob/main/pwd_integrety_test.py* and open it
+2. Right corner of the code, select *copy* option
+3. Open a tab in any browser and search *online python compiler* and choose any one compiler
+4. Paste copied raw file, and run the code
