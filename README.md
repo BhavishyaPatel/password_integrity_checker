@@ -8,6 +8,6 @@ On Windows:
 
 On Kali Linux:
 1. Open terminal
-2. Enter the command *git clone https://github.com/BhavishyaPatel/password_integrity_checker.git*
-3. Change directory with the command *cd password_integrity_checker*
-4. Run the file with the command *python pwd_integrety_test.py*
+2. Enter the command *"git clone https://github.com/BhavishyaPatel/password_integrity_checker.git"*
+3. Change directory with the command *"cd password_integrity_checker"*
+4. Run the file with the command *"python pwd_integrety_test.py"*
